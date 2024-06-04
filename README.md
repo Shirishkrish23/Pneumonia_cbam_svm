@@ -1,5 +1,3 @@
-Certainly! Here's a README file for your GitHub repository based on the project description you provided:
-
 # Pneumonia Detection in Chest X-rays using CNN-CBAM-SVM
 
 This project presents an innovative approach to automated pneumonia detection in chest X-ray images, combining the power of Convolutional Neural Networks (CNNs) with Convolutional Block Attention Modules (CBAM) and Support Vector Machine (SVM) classifiers. Our hybrid model significantly improves diagnostic accuracy, offering a promising solution for clinical applications.
